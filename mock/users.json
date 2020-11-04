@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "id": 0,
+      "nickname": "美国队长",
+      "avatar": "url"
+    },
+    {
+      "id": 1,
+      "nickname": "惊奇队长",
+      "avatar": "url"
+    }
+  ]
+}
